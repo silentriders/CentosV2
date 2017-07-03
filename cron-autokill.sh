@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script untuk menjalankan autokill cron by Khairil Gunawan
+#Script untuk menjalankan autokill cron by SilentRider
 
 mkdir -p "$HOME/tmp"
 PIDFILE="$HOME/tmp/autokill.pid"
