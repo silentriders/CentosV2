@@ -1,9 +1,8 @@
-Script Installer VPS by INDOWORX
+Script Installer VPS by SilentRider
 ===================
 
 Script auto installer VPS untuk memudahkan dalam berjualan SSH, VPN, dan Proxy. Script ini telah di install berbagai macam fungsi dan alat yang akan membantu Anda dalam berjualan layanan SSH, VPN dan Proxy.
 
-https://www.indoworx.com/
 
 ----------
 
@@ -19,14 +18,14 @@ Installation
 -------------
 Untuk instalasi script silahkan jalankan perintah berikut:
 ```sh
-$ wget https://raw.githubusercontent.com/khairilg/script-jualan-ssh-vpn/master/centos-kvm.sh
+$ wget https://raw.githubusercontent.com/silentriders/CentosV2/master/centos-kvm.sh
 $ chmod +x centos-kvm.sh
 $ sh centos-kvm.sh
 ```
 atau
 
 ```sh
-$ wget https://raw.githubusercontent.com/khairilg/script-jualan-ssh-vpn/master/centos-kvm.sh && chmod +x centos-kvm.sh && sh centos-kvm.sh
+$ wget https://raw.githubusercontent.com/silentriders/CentosV2/master/centos-kvm.sh && chmod +x centos-kvm.sh && sh centos-kvm.sh
 ```
 Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk mengisi:
 
