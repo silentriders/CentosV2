@@ -1,6 +1,6 @@
 #!/bin/bash
-# Script Auto Installer by Indoworx
-# www.indoworx.com
+# Script Auto Installer by SilentRider
+# Gilang Erlangga M
 echo "" > /root/infouser.txt
 echo "" > /root/expireduser.txt
 echo "" > /root/alluser.txt
