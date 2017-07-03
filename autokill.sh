@@ -1,5 +1,5 @@
-# Script Auto Installer by Indoworx
-# www.indoworx.com
+# Script Auto Installer by SilentRider
+# Gilang Erlangga M
 while :
   do 
   userlimit 1
